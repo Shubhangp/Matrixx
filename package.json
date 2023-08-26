@@ -2,12 +2,14 @@
   "name": "matrixx",
   "version": "1.0.0",
   "description": "matrix assignment",
-  "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
     "test": "jest"
   },
+  "keywords": [
+    "react"
+  ],
   "author": "shubhang",
   "license": "ISC",
   "devDependencies": {
